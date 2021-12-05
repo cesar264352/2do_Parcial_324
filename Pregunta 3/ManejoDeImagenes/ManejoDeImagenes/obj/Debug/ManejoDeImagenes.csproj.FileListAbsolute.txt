@@ -1,0 +1,9 @@
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\bin\Debug\ManejoDeImagenes.exe.config
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\bin\Debug\ManejoDeImagenes.exe
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\bin\Debug\ManejoDeImagenes.pdb
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\obj\Debug\ManejoDeImagenes.csprojResolveAssemblyReference.cache
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\obj\Debug\ManejoDeImagenes.Form1.resources
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\obj\Debug\ManejoDeImagenes.Properties.Resources.resources
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\obj\Debug\ManejoDeImagenes.csproj.GenerateResource.Cache
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\obj\Debug\ManejoDeImagenes.exe
+c:\users\guss_90\documents\visual studio 2012\Projects\ManejoDeImagenes\ManejoDeImagenes\obj\Debug\ManejoDeImagenes.pdb
